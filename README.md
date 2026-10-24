@@ -19,3 +19,6 @@ HTML, CSS, JavaScript, Supabase (Auth + Postgres), Google Apps Script, Vercel
 
 ## Live demo
 https://library-login-gules.vercel.app
+
+Google Sheet Link
+https://docs.google.com/spreadsheets/d/1iuC-KKws30nqDMWugotgWKVUNmDfumzBR1Cz-iTyXC8/edit?gid=0#gid=0
