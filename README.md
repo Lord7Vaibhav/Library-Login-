@@ -18,4 +18,4 @@ HTML, CSS, JavaScript, Supabase (Auth + Postgres), Google Apps Script, Vercel
 3. Open with VS Code Live Server (http://127.0.0.1:5500)
 
 ## Live demo
-https://your-project.vercel.app
+https://library-login-gules.vercel.app
